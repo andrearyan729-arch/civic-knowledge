@@ -1,0 +1,47 @@
+{
+  "CA": {
+    "state": "California",
+    "medicaid_expansion_status": "Adopted",
+    "uninsured_increase": 1600000,
+    "pp_increase": 4.17,
+    "medicaid_uninsured_increase": 1300000,
+    "marketplace_uninsured_increase": 230000,
+    "medicare_other_uninsured_increase": 57000
+  },
+  "NY": {
+    "state": "New York",
+    "medicaid_expansion_status": "Adopted",
+    "uninsured_increase": 860000,
+    "pp_increase": 4.76,
+    "medicaid_uninsured_increase": 680000,
+    "marketplace_uninsured_increase": 68000,
+    "medicare_other_uninsured_increase": 32000
+  },
+  "TX": {
+    "state": "Texas",
+    "medicaid_expansion_status": "Not Adopted",
+    "uninsured_increase": 480000,
+    "pp_increase": 1.14,
+    "medicaid_uninsured_increase": 350000,
+    "marketplace_uninsured_increase": 130000,
+    "medicare_other_uninsured_increase": 21000
+  },
+  "FL": {
+    "state": "Florida",
+    "medicaid_expansion_status": "Not Adopted",
+    "uninsured_increase": 500000,
+    "pp_increase": 2.15,
+    "medicaid_uninsured_increase": 440000,
+    "marketplace_uninsured_increase": 50000,
+    "medicare_other_uninsured_increase": 25000
+  },
+  "IL": {
+    "state": "Illinois",
+    "medicaid_expansion_status": "Adopted",
+    "uninsured_increase": 470000,
+    "pp_increase": 4.52,
+    "medicaid_uninsured_increase": 390000,
+    "marketplace_uninsured_increase": 52000,
+    "medicare_other_uninsured_increase": 11000
+  }
+}
