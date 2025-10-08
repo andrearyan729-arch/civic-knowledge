@@ -11,7 +11,8 @@ Hospital systems, insurance companies, and drug makers post **record profits** a
 America is entering a healthcare affordability crisis driven by two converging forces:
 1. Long-term cost growth and industry consolidation.  
 2. New policy changes that reduce federal support for healthcare programs.
-   ---
+
+---
 
 ## **The Paradox of American Healthcare: Richest Nation, Worst Results**
 
@@ -32,8 +33,10 @@ The United States spends more on healthcare than any country in the world — bu
 This contradiction reflects deep systemic inefficiencies and policy decisions that prioritize profit over prevention.  
 High costs don’t translate to better care — they reflect administrative complexity, market power, and policy choices that burden citizens instead of protecting them.
 
-**Sources:** OECD Health Statistics (2024), Commonwealth Fund, Kaiser Family Foundation (KFF).
-
+**Sources:**  
+- [OECD Health Statistics 2024](https://www.oecd.org/health/health-data.htm)  
+- [Commonwealth Fund: U.S. Health System Performance Dashboard (2024)](https://www.commonwealthfund.org/publications/issue-briefs/2024/jan/us-health-system-performance-dashboard)  
+- [Kaiser Family Foundation (KFF): Health System Tracker](https://www.healthsystemtracker.org/)
 
 The result: higher premiums, fewer coverage options, and a widening gap between those who can afford care and those who cannot.
 
