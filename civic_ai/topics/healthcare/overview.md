@@ -10,7 +10,30 @@ Hospital systems, insurance companies, and drug makers post **record profits** a
 
 America is entering a healthcare affordability crisis driven by two converging forces:
 1. Long-term cost growth and industry consolidation.  
-2. New policy changes that reduce federal support for healthcare programs.  
+2. New policy changes that reduce federal support for healthcare programs.
+   ---
+
+## **The Paradox of American Healthcare: Richest Nation, Worst Results**
+
+The United States spends more on healthcare than any country in the world — but delivers worse outcomes than almost all other wealthy nations.
+
+| Measure | United States | OECD Average | Rank / Notes |
+|----------|----------------|---------------|---------------|
+| **Healthcare Spending (2024)** | **~$4.5 trillion (≈17% of GDP)** | ~9.5% of GDP | **#1 in cost** |
+| **Per Capita Spending** | **$13,000+ per person** | $5,500 | Nearly **2.5× higher** |
+| **Life Expectancy** | **77 years** | 82 years | **Last among peers** |
+| **Infant Mortality (per 1,000 births)** | **5.4** | 3.3 | **Highest among peers** |
+| **Maternal Mortality (per 100k births)** | **32.9** | 8–10 | **Triple the peer average** |
+| **Out-of-Pocket Costs (Annual)** | **$1,300+ per capita** | ~$650 | **Double the average** |
+
+> 🇺🇸 *The U.S. is the richest nation on earth — but the only one where medical debt is a leading cause of personal bankruptcy.*
+
+**Why this matters:**  
+This contradiction reflects deep systemic inefficiencies and policy decisions that prioritize profit over prevention.  
+High costs don’t translate to better care — they reflect administrative complexity, market power, and policy choices that burden citizens instead of protecting them.
+
+**Sources:** OECD Health Statistics (2024), Commonwealth Fund, Kaiser Family Foundation (KFF).
+
 
 The result: higher premiums, fewer coverage options, and a widening gap between those who can afford care and those who cannot.
 
