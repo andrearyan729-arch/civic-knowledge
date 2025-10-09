@@ -201,4 +201,3 @@ The **Kaiser Family Foundation (KFF)** estimates how many people in each U.S. st
 - [`drivers_of_costs.md`](./drivers_of_costs.md)  
 - [`impacts_on_citizens.md`](./impacts_on_citizens.md)  
 - [`what_congress_can_do.md`](./what_congress_can_do.md)
-
